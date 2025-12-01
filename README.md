@@ -62,6 +62,8 @@ steam
 libvirt
 qemu-desktop
 virt-manager
+fcitx5
+fcitx5-mozc
+fcitx5-configtool
 flatpak
 ```
-
