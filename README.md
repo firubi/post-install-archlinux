@@ -48,6 +48,7 @@ okular
 ark
 7zip
 unrar
+papirus-icon-theme
 ffmpegthumbs
 kdegraphics-thumbnailers
 plasma-systemmonitor
